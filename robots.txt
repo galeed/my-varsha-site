@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://varsha.myndlabs.tech/sitemap-index.xml
